@@ -1,0 +1,16 @@
+html,
+body {
+  min-height: 100%;
+  color: #2e2e2e;
+  padding-right: 0px !important;
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pathway-enrolledClass-cards::-webkit-scrollbar {
+  display: none;
+}
